@@ -1,4 +1,4 @@
-🧠 Causal Inference with T-Learners: Scikit-Learn vs. CausalML
+# 🧠 Causal Inference with T-Learners: Scikit-Learn vs. CausalML
 
 This project demonstrates how to implement and compare T-Learners using both a manual approach with Scikit-Learn and an automated approach using CausalML, Uber’s open-source Python package for estimating individualized treatment effects.
 
@@ -12,7 +12,7 @@ Validate that both implementations produce consistent results
 
 Showcase how CausalML simplifies causal modeling while preserving rigor
 
-📂 Contents
+# 📂 Contents
 
 Comparing T-Learner Implementation Scikit-Learn vs CausalMl.ipynb: Full code walkthrough comparing the two methods
 
@@ -20,7 +20,7 @@ README.md: Project overview and instructions
 
 Simulated dataset using random assignment and known treatment effects
 
-⚙️ What’s Covered
+# ⚙️ What’s Covered
 
 Data Preparation
 
@@ -50,11 +50,11 @@ Statistical checks (mean, std, min, max)
 
 Visual comparison using histograms
 
-Summary
+# Summary
 
 Key findings about accuracy, efficiency, and clarity of the CausalML package
 
-🛠 Requirements
+#🛠 Requirements
 
 Python 3.8+
 
@@ -68,7 +68,7 @@ numpy
 
 matplotlib or seaborn for visualization
 
-🚀 Running the Project
+# 🚀 Running the Project
 
 Clone this repository
 
